@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/faculty_side/src/styles.zip!/" />
+      <root url="jar://$PROJECT_DIR$/faculty_side/src/components.zip!/" />
+      <root url="jar://$PROJECT_DIR$/faculty_side/src/helpers.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
